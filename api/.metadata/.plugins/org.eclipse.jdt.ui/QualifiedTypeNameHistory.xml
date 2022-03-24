@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="com.br.apiSistemaContas.apiSistemaContas.dao.FluxoDao"/>
+    <fullyQualifiedTypeName name="com.br.apiSistemaContas.apiSistemaContas.controller.CorrentistaController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="com.br.apiSistemaContas.apiSistemaContas.model.Correntista"/>
+</qualifiedTypeNameHistroy>
