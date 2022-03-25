@@ -2,10 +2,9 @@ package com.br.apiSistemaContas.apiSistemaContas.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.Id;
 import javax.persistence.Table;
 	@Entity
-	@Table(name="tbcliente")
+	@Table(name="correntista")
 public class Correntista {
 	
 		//definir campos da tabela 

@@ -1,5 +1,5 @@
-create database api_sistema_contas;
-use  api_sistema_contas;
+create database sistemacontas;
+use  sistemacontas;
 -- criando as tabelas
 create table correntistas (
 	ag int not null, 
@@ -50,7 +50,6 @@ ag, conta, fluxo, entrada, saida) values
 (227, 20157, 11, 250.00, 25.00),
 (228, 20456,12, 350.00, 35.00),
 (229, 45685, 13, 213.00, 21.00);
-
 -- selecinando dados desejados de ambas as tabelas
 select c.ag, c.conta, c.nome, f.entrada, f.saida
 from correntistas as c, 
